@@ -1,0 +1,26 @@
+[
+    {
+      "title": "IRANI CAFE",
+      "imageSrc": "projects/cafe.jpeg",
+      "description": "About project I've built the IRANI-CAFE website for seamless browsing on all devices with detailed product information",
+      "skills": ["React", "JavaScript", "Git" , " NPM"],
+      "demo": " https://iranichai.netlify.app/",
+      "source": "https://github.com/harshitha-2201/iranicafe"
+    },
+    {
+      "title": " CRUD operation",
+      "imageSrc": "projects/crud1.png",
+      "description": "I've designed a functional MERN stack CRUD application with user-friendly navigation, enabling data creation, reading, updating, and deletion."      ,
+      "skills": ["React", "Express", "Node", "MonGoDb"],
+      "demo": "https://weatherapp-ap.netlify.app/",
+      "source": "https://github.com/harshitha-2201/userapp"
+    },
+    {
+      "title": "WeatherApp",
+      "imageSrc": "projects/weather1.jpeg",
+      "description": "This is a weather prediction app using React by using openWeatherApi",
+      "skills": ["React", "Express", "Node","API"],
+      "demo": "https://weatherapp-ap.netlify.app/",
+      "source": "https://github.com/harshitha-2201/weatherapp"
+    }
+  ]
