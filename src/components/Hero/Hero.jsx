@@ -11,7 +11,7 @@ import { getImageUrl } from "../../utils";
         <p className={styles.description}>
 
 "I'm an enthusiastic full-stack web developer with experience building websites and projects. I'm always eager to learn and grow in the world of web development."</p>
-        <a href="https://drive.google.com/file/d/1jT2yGET54uHpvDbHxkFRt4CrLlS7eObh/view" className={styles.contactBtn}>
+        <a href="https://docs.google.com/document/d/1dv2zBKIuWtACyV53CoAKMYYynUBl1Ugv/edit?usp=drivesdk&ouid=110402069077598699325&rtpof=true&sd=true" className={styles.contactBtn}>
           Resume
         </a>
       </div>
