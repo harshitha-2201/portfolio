@@ -1,11 +1,11 @@
 [
     {
-      "title": "IRANI CAFE",
+      "title": "Gllowly",
       "imageSrc": "projects/cafe.jpeg",
-      "description": "About project I've built the IRANI-CAFE website for seamless browsing on all devices with detailed product information",
+      "description": "About Glowly, Glowly is your partner in achieving natural beauty through advanced skincare and body care products. ",
       "skills": ["React", "JavaScript", "Git" , " NPM"],
-      "demo": " https://iranichai.netlify.app/",
-      "source": "https://github.com/harshitha-2201/iranicafe"
+      "demo": "https://glowlyio.netlify.app/about",
+      "source": "https://github.com/harshitha-2201/glowly"
     },
     {
       "title": " CRUD operation",
