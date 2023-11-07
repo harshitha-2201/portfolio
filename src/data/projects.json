@@ -1,7 +1,7 @@
 [
     {
       "title": "Gllowly",
-      "imageSrc": "projects/cafe.jpeg",
+      "imageSrc": "projects/lip3.2.jpg",
       "description": "About Glowly, Glowly is your partner in achieving natural beauty through advanced skincare and body care products. ",
       "skills": ["React", "JavaScript", "Git" , " NPM"],
       "demo": "https://glowlyio.netlify.app/about",
