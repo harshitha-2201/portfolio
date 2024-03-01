@@ -20,7 +20,7 @@ import { getImageUrl } from "../../utils";
             src={getImageUrl("contact/linkedinIcon.png")}
             alt="LinkedIn icon"
           />
-          <a href="www.linkedin.com/in/harshitha22">harshitha22</a>
+          <a href="https://www.linkedin.com/in/harshitha22/">harshitha22</a>
         </li>
         <li className={styles.link}>
           <img src={getImageUrl("contact/githubIcon.png")} alt="Github icon" />
