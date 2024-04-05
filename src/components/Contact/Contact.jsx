@@ -13,14 +13,14 @@ import { getImageUrl } from "../../utils";
       <ul className={styles.links}>
         <li className={styles.link}>
           <img src={getImageUrl("contact/emailIcon.png")} alt="Email icon" />
-          <a href="mailto:akkinasaiharshitha@gmail.com">akkinasaiharshitha@gmail.com</a>
+          <a href="mailto:harshitha2435@gmail.com">harshitha2435@gmail.com</a>
         </li>
         <li className={styles.link}>
           <img
             src={getImageUrl("contact/linkedinIcon.png")}
             alt="LinkedIn icon"
           />
-          <a href="https://www.linkedin.com/in/harshitha22/">harshitha22</a>
+          <a href="https://www.linkedin.com/in/harshitha221//">harshitha22</a>
         </li>
         <li className={styles.link}>
           <img src={getImageUrl("contact/githubIcon.png")} alt="Github icon" />
