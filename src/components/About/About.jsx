@@ -18,7 +18,8 @@ import { getImageUrl } from "../../utils";
            a field I've been passionate about since before my graduation. I underwent full-stack developer training at X Institute, gaining hands-on experience
             in frontend, backend, databases, and various tools and frameworks. I also have a basic understanding of version control and Hoisting the websites.
              Throughout my course, I successfully applied these skills to complete my own projects and took on an unpaid internship to further enhance my practical knowledge. 
-             Additionally, I've earned certifications in various web technologies and continue to expand my expertise.Throughout my course, I successfully applied these skills to complete mini-projects and tackle logic-based challenges on platforms like HackerRank."
+             Additionally, I've earned certifications in various web technologies and continue to expand my expertise.Throughout my course, I successfully applied these skills to complete mini-projects and
+             tackle logic-based challenges on platforms like HackerRank."
 </p>
       </div>
     </section>
