@@ -2,7 +2,7 @@
     {
       "title": "TOMATO",
       "imageSrc": "projects/food.png",
-      "description": "About Tomato It is one of the Food delivery app. ",
+      "description": "About Tomato It is one of the Food delivery app .For Responsive application. ",
       "skills": ["React", "JavaScript", "Git" , "Hooks"],
       "demo": "fd-del.netlify.app/",
       "source": "https://github.com/harshitha-2201/FoodDelivery"
