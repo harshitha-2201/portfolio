@@ -1,11 +1,11 @@
 [
     {
-      "title": "Gllowly",
+      "title": "TOMATO",
       "imageSrc": "projects/lip3.2.jpg",
-      "description": "About Glowly, Glowly is your partner in achieving natural beauty through advanced skincare and body care products. ",
-      "skills": ["React", "JavaScript", "Git" , " NPM"],
-      "demo": "https://glowlyio.netlify.app/about",
-      "source": "https://github.com/harshitha-2201/glowly"
+      "description": "About Tomato It is one of the Food delivery app. ",
+      "skills": ["React", "JavaScript", "Git" , "Hooks"],
+      "demo": "fd-del.netlify.app/",
+      "source": "https://github.com/harshitha-2201/FoodDelivery"
     },
     {
       "title": " CRUD operation",
