@@ -1,7 +1,7 @@
 [
     {
       "title": "TOMATO",
-      "imageSrc": "projects/crud1.png",
+      "imageSrc": "projects/food.png",
       "description": "About Tomato It is one of the Food delivery app. ",
       "skills": ["React", "JavaScript", "Git" , "Hooks"],
       "demo": "fd-del.netlify.app/",
