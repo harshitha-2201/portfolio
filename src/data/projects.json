@@ -1,7 +1,7 @@
 [
     {
       "title": "E-Commerce Store",
-      "imageSrc": "projects/food.png",
+      "imageSrc": "projects/glowly.png",
       "description": "About E-Commerce Store Which  Deliveries the World Wide Products. ",
       "skills": ["React", "JavaScript", "Git" , "Hooks"],
       "demo": "velvety-dasik-51cee1.netlify.app",
@@ -9,7 +9,7 @@
     },
     {
       "title": " SnapSearch ",
-      "imageSrc": "projects/crud1.png",
+      "imageSrc": "projects/snapsearch.png",
       "description": "Gallery Image Search app, integrating the Unsplash API for real-time image retrieval."      ,
       "skills": ["React", "Unslash API" , "Git"],
       "demo": " https://api-fetching-photos.netlify.app/",
