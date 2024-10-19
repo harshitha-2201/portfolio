@@ -1,19 +1,19 @@
 [
     {
-      "title": "TOMATO",
+      "title": "E-Commerce Store",
       "imageSrc": "projects/food.png",
-      "description": "About Tomato It is one of the Food delivery app .For Responsive application. ",
+      "description": "About E-Commerce Store Which  Deliveries the World Wide Products. ",
       "skills": ["React", "JavaScript", "Git" , "Hooks"],
-      "demo": "fd-del.netlify.app/",
-      "source": "https://github.com/harshitha-2201/FoodDelivery"
+      "demo": "velvety-dasik-51cee1.netlify.app",
+      "source": "https://github.com/harshitha-2201/Glowly-app"
     },
     {
-      "title": " CRUD operation",
+      "title": " SnapSearch ",
       "imageSrc": "projects/crud1.png",
-      "description": "I've designed a functional MERN stack CRUD application with user-friendly navigation, enabling data creation, reading, updating, and deletion."      ,
-      "skills": ["React", "Express", "Node", "MonGoDb"],
-      "demo": "https://weatherapp-ap.netlify.app/",
-      "source": "https://github.com/harshitha-2201/userapp"
+      "description": "Gallery Image Search app, integrating the Unsplash API for real-time image retrieval."      ,
+      "skills": ["React", "Unslash API" , "Git"],
+      "demo": " https://api-fetching-photos.netlify.app/",
+      "source": "https://github.com/harshitha-2201/gallary-application"
     },
     {
       "title": "WeatherApp",
