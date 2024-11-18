@@ -17,10 +17,10 @@
     },
     {
       "title": "WeatherApp",
-      "imageSrc": "projects/weather1.jpeg",
-      "description": "This is a weather prediction app using React by using openWeatherApi",
-      "skills": ["React", "Express", "Node","API"],
-      "demo": "https://weatherapp-ap.netlify.app/",
-      "source": "https://github.com/harshitha-2201/weatherapp"
+      "imageSrc": "projects/Appointment-app.png",
+      "description": "This is a Doctor appointment booking application in the fullstack",
+      "skills": ["React", "Express", "Node","MongoDb"],
+      "demo": "https://appointment-booking-azure.vercel.app/",
+      "source": "https://github.com/harshitha-2201/appointment-booking"
     }
   ]
