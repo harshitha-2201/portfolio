@@ -16,7 +16,7 @@
       "source": "https://github.com/harshitha-2201/gallary-application"
     },
     {
-      "title": "WeatherApp",
+      "title": "Appointement-Booking",
       "imageSrc": "projects/Appointment-app.png",
       "description": "This is a Doctor appointment booking application in the fullstack",
       "skills": ["React", "Express", "Node","MongoDb"],
